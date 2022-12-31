@@ -15,14 +15,14 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Docker" src="logo/docker.svg">
 <img width="6%" title="Allure Report" src="logo/allure.svg">
 <img width=5%" title="Appium" src="logo/appium.svg">  
-<img width="6%" title="Clickhouse" src="logo/clickhouse.svg">
-<img width="6%" title="PostgreSQL" src="logo/postgresql.svg">  
-<img width="6%" title="Redis" src="logo/redis.svg">
-<img width="6%" title="LMDB" src="logo/lmdb.svg">
-<img width="6%" title="Bash" src="logo/bash.svg">
-<img width="6%" title="GitLab" src="logo/gitLab.svg">
-<img width="6%" title="Centos" src="logo/centos.svg">
-<img width="6%" title="Grafana" src="logo/grafana.svg">  
+<img width="6%" title="Clickhouse" src="logo/clickhouse.png">
+<img width="6%" title="PostgreSQL" src="logo/postgresql.png">  
+<img width="6%" title="Redis" src="logo/redis.png">
+<img width="6%" title="LMDB" src="logo/lmdb.png">
+<img width="6%" title="Bash" src="logo/bash.png">
+<img width="6%" title="GitLab" src="logo/gitLab.png">
+<img width="6%" title="Centos" src="logo/centos.png">
+<img width="6%" title="Grafana" src="logo/grafana.png">  
 <img width="6%" title="Selenide" src="logo/selenide.svg">
 <img width="6%" title="BrowserStack" src="logo/browserstack.svg">    
 <img width="5%" title="PyCharm" src="logo/pc.png">
