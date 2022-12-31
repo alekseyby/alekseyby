@@ -8,10 +8,10 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Pytest" src="logo/pytest.png">
 <img width="6%" title="Selenium" src="logo/selenium.svg">
 <img width="6%" title="RobotFramework" src="logo/robotframework.png">
-<img width="6%" title="Flask" src="logo/flask.svg">
+<img width="6%" title="Flask" src="logo/flask.png">
 <img width="6%" title="Jenkins" src="logo/jenkins.svg">
 <img width="5%" title="Requests" src="logo/requests.png">
-<img width="6%" title="Kafka" src="logo/kafka.svg">  
+<img width="6%" title="Kafka" src="logo/kafka.png">  
 <img width="6%" title="Docker" src="logo/docker.svg">
 <img width="6%" title="Allure Report" src="logo/allure.svg">
 <img width=5%" title="Appium" src="logo/appium.svg">  
@@ -20,12 +20,12 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Redis" src="logo/redis.png">
 <img width="6%" title="LMDB" src="logo/lmdb.png">
 <img width="6%" title="Bash" src="logo/bash.png">
-<img width="6%" title="GitLab" src="logo/gitLab.png">
+<img width="6%" title="GitLab" src="logo/gitlab.png">
 <img width="6%" title="Centos" src="logo/centos.png">
 <img width="6%" title="Grafana" src="logo/grafana.png">  
 <img width="6%" title="Selenide" src="logo/selenide.svg">
 <img width="6%" title="BrowserStack" src="logo/browserstack.svg">    
-<img width="5%" title="PyCharm" src="logo/pc.png">
+<img width="5%" title="PyCharm" src="logo/pycharm.png">
 </p>
 <br/>
                                                   
