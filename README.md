@@ -18,7 +18,7 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Clickhouse" src="logo/clickhouse.svg">
 <img width="5%" title="PostgreSQL" src="logo/postgresql.png">  
 <img width="6%" title="Redis" src="logo/redis.svg">
-<img width="6%" title="LMDB" src="logo/lmdb.png">
+<img width="9%" title="LMDB" src="logo/lmdb.png">
 <img width="6%" title="Bash" src="logo/bash.png">
 <img width="6%" title="GitLab" src="logo/gitlab.png">
 <img width="6%" title="Centos" src="logo/centos.png">
