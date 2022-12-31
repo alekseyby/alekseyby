@@ -20,7 +20,7 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Redis" src="logo/redis.svg">
 <img width="9%" title="LMDB" src="logo/lmdb.png">
 <img width="6%" title="Bash" src="logo/bash.png">
-<img width="6%" title="GitLab" src="logo/gitlab.png">
+<img width="6%" title="GitLab" src="logo/gitlab.svg">
 <img width="6%" title="Centos" src="logo/centos.png">
 <img width="6%" title="Grafana" src="logo/grafana.png">  
 <img width="6%" title="Selenide" src="logo/selenide.svg">
