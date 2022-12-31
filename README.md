@@ -8,6 +8,7 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 <img width="6%" title="Pytest" src="logo/pytest.png">
 <img width="6%" title="Selenium" src="logo/selenium.svg">
 <img width="6%" title="RobotFramework" src="logo/robotframework.svg">
+<img width="6%" title="Flask" src="logo/flask.svg">
 <img width="6%" title="Jenkins" src="logo/jenkins.svg">
 <img width="5%" title="Requests" src="logo/requests.png">
 <img width="6%" title="Kafka" src="logo/kafka.svg">  
