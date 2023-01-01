@@ -5,6 +5,7 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 ## 💡Technologies and tools 
 <p align="center">
 <img width="5%" title="Python" src="logo/python.png">
+<img width="5%" title="JavaScript" src="logo/js.svg">
 <img width="6%" title="Pytest" src="logo/pytest.png">
 <img width="6%" title="Selenium" src="logo/selenium.svg">
 <img width="6%" title="RobotFramework" src="logo/robotframework.png">
