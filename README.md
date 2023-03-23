@@ -33,6 +33,6 @@ My name is Aleksey Khromenkov. I'm Automation QA.
 ## 🚀 Statistics 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseyby&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt)
 <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseyby&hide=html&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseyby&hide=html&layout=compact&theme=cobalt)
 <br/>
 <br/>
